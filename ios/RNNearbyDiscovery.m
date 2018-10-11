@@ -1,4 +1,4 @@
-#import "RNNearbyManager.h"
+#import "RNNearbyDiscovery.h"
 #import "Discovery.h"
 
 @interface RNNearbyDiscovery ()
