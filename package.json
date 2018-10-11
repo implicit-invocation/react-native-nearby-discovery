@@ -1,8 +1,7 @@
-
 {
   "name": "react-native-nearby-discovery",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Getting started",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +9,17 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "implicit-invocation",
+  "license": "ISC",
   "peerDependencies": {
     "react-native": "^0.41.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/implicit-invocation/react-native-nearby-discovery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/implicit-invocation/react-native-nearby-discovery/issues"
+  },
+  "homepage": "https://github.com/implicit-invocation/react-native-nearby-discovery#readme"
 }
