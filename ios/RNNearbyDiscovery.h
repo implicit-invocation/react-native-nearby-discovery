@@ -3,9 +3,9 @@
 #import "RCTBridgeModule.h"
 #else
 #import <React/RCTBridgeModule.h>
+#import <React/RCTEventEmitter.h>
 #endif
 
-@interface RNNearbyDiscovery : NSObject <RCTBridgeModule>
+@interface RNNearbyDiscovery : RCTEventEmitter <RCTBridgeModule>
 
 @end
-  
